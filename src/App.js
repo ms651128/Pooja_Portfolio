@@ -18,19 +18,19 @@ function App() {
     <Router>
       <div className="App">
         <Navbar />
-        <Route exact path="/">
+        <Route exact path="/Pooja_Portfolio/">
           <Home />
         </Route>
-        <Route path="/about">
+        <Route path="/Pooja_Portfolio/about">
           <About />
         </Route>
-        <Route path="/education">
+        <Route path="/Pooja_Portfolio/education">
           <Education />
         </Route>
-        <Route path="/skills">
+        <Route path="/Pooja_Portfolio/skills">
           <Skills />
         </Route>
-        <Route path="/contact">
+        <Route path="/Pooja_Portfolio/contact">
           <Contact />
         </Route>
       </div>
