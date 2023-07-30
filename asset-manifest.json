@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pooja_Portfolio/static/css/main.75e766f2.css",
+    "main.js": "/Pooja_Portfolio/static/js/main.2ad3c5e0.js",
+    "static/media/ppic.jpg": "/Pooja_Portfolio/static/media/ppic.6e0d1cb96d7cea8e94b9.jpg",
+    "index.html": "/Pooja_Portfolio/index.html",
+    "main.75e766f2.css.map": "/Pooja_Portfolio/static/css/main.75e766f2.css.map",
+    "main.2ad3c5e0.js.map": "/Pooja_Portfolio/static/js/main.2ad3c5e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e766f2.css",
+    "static/js/main.2ad3c5e0.js"
+  ]
+}
