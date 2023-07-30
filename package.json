@@ -2,7 +2,7 @@
   "name": "resume_website_workshop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ms651128/Pooja_Portfolio",
+  "homepage": "https://ms651128.github.io/Pooja_Portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
